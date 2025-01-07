@@ -1,1 +1,1 @@
-python tool.py
+python main.py
