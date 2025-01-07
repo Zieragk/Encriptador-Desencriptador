@@ -1,1 +1,1 @@
-pip install cryptography
+pip install cryptography colorama
